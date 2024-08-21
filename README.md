@@ -31,7 +31,3 @@ The **Email Plugin for Moodle** is a custom plugin designed to integrate email f
 ### Contributing
 
 Contributions to enhance the plugin are welcome. Please submit issues, feature requests, or pull requests through GitHub.
-
-### License
-
-# local_emailplugin
