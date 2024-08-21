@@ -35,3 +35,4 @@ Contributions to enhance the plugin are welcome. Please submit issues, feature r
 
 ### License
 
+# local_emailplugin
