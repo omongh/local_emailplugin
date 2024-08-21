@@ -1,6 +1,3 @@
-# local_emailplugin
-# local_emailplugin
-# Email Plugin for Moodle
 # Email Plugin for Moodle
 
 ## Description
